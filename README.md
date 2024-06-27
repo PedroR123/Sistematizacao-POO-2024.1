@@ -33,4 +33,4 @@ Contribuições são bem-vindas! Para contribuir com este projeto, siga estas et
 
 ## Contato
 
-Para mais informações, entre em contato com Pedro Rômulo de Melo Santos via email: pedro.romulo.melo@sempreceub.com
+Para mais informações, entre em contato com Pedro Rômulo de Melo Santos via email: pedro.romulo@sempreceub.com
