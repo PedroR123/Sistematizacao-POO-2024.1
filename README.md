@@ -1,18 +1,17 @@
-## Getting Started
+# Sistematização POO 2024.1 - Pedro Rômulo de Melo Santos
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Descrição do Projeto
 
-## Folder Structure
+Este projeto foi desenvolvido para a empresa MGS (Max Global Sports) para gerar cartões com as principais informações dos funcionários, alergias, problemas médicos, bem como telefones e e-mails de contato. O sistema armazena as informações dos empregados e as apresenta quando o respectivo identificador é fornecido.
 
-The workspace contains two folders by default, where:
+## Tecnologias Utilizadas
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- Java
+- Ensinamentos de Programação Orientada a Objetos 
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Como Configurar o Projeto
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+1. **Clone o repositório:**
+   ```sh
+   git clone https://github.com/SeuUsuario/SeuRepositorio.git
+   cd SeuRepositorio
